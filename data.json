@@ -1,0 +1,1574 @@
+{
+    "105600": {
+        "name": "Terraria",
+        "recently_played": true,
+        "playtime_2weeks": 669,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 30677
+            }
+        ],
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac"
+    },
+    "323220": {
+        "name": "Vagante",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 26955
+            }
+        ],
+        "img_icon_url": "39723bd19ec6b125b10de1747b9974157d762785"
+    },
+    "632360": {
+        "name": "Risk of Rain 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 16025
+            }
+        ],
+        "img_icon_url": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c"
+    },
+    "1966720": {
+        "name": "Lethal Company",
+        "recently_played": true,
+        "playtime_2weeks": 70,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 14128
+            }
+        ],
+        "img_icon_url": "80d2453285274e4723c884a671cdd3f8fe2f766f"
+    },
+    "418530": {
+        "name": "Spelunky 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 12269
+            }
+        ],
+        "img_icon_url": "f97f0c9b53f22d7dc9c422363b880db318aae6e6"
+    },
+    "368340": {
+        "name": "CrossCode",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 11175
+            }
+        ],
+        "img_icon_url": "188180728b733f64997d37d6ca92d1482405ca71"
+    },
+    "588650": {
+        "name": "Dead Cells",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 10066
+            }
+        ],
+        "img_icon_url": "a431361e5dae5fd6ac2433064b62b2a37abc38f1"
+    },
+    "322330": {
+        "name": "Don't Starve Together",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 9247
+            }
+        ],
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+    },
+    "359550": {
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 8402
+            }
+        ],
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+    },
+    "371970": {
+        "name": "Barony",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 8031
+            }
+        ],
+        "img_icon_url": "9288677a439edf26c4ca28a8de14a0a40e880d15"
+    },
+    "881100": {
+        "name": "Noita",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 7600
+            }
+        ],
+        "img_icon_url": "a21dbd1d3bd01f0a688f2d7029978d5cdbe14e74"
+    },
+    "367520": {
+        "name": "Hollow Knight",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 7259
+            }
+        ],
+        "img_icon_url": "f6ab055c2366237200b1a31cccbd6cf81e436d72"
+    },
+    "972660": {
+        "name": "Spiritfarer\u00ae: Farewell Edition",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 6643
+            }
+        ],
+        "img_icon_url": "21c6c86b51df38e9480231792acf0cfc30f51820"
+    },
+    "2121980": {
+        "name": "Void Stranger",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 5291
+            }
+        ],
+        "img_icon_url": "6803ab78408dc6e2b3431891438589e15bb6a2ee"
+    },
+    "2679460": {
+        "name": "Metaphor: ReFantazio",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 5098
+            }
+        ],
+        "img_icon_url": "76497828e18653273818f428323bd2a5684e689d"
+    },
+    "1030300": {
+        "name": "Hollow Knight: Silksong",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 4925
+            }
+        ],
+        "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5"
+    },
+    "960690": {
+        "name": "One Step From Eden",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 4378
+            }
+        ],
+        "img_icon_url": "1d0594e2b56182250b9822e7d909f76080fff4c0"
+    },
+    "646570": {
+        "name": "Slay the Spire",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 3927
+            }
+        ],
+        "img_icon_url": "33ea124ea8c03a9ce7012d34c3b348a351612fca"
+    },
+    "493520": {
+        "name": "GTFO",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 3758
+            }
+        ],
+        "img_icon_url": "c211299ef6127057dfe0271626bb044e79c28f78"
+    },
+    "1145360": {
+        "name": "Hades",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 3686
+            }
+        ],
+        "img_icon_url": "8a3fca36a00883e8066263ad35dd15d77a1f9abc"
+    },
+    "1082710": {
+        "name": "Bug Fables: The Everlasting Sapling",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 3089
+            }
+        ],
+        "img_icon_url": "8b5b87de36b26c7181970f9299cadf6ec18f9d55"
+    },
+    "1557740": {
+        "name": "ROUNDS",
+        "recently_played": true,
+        "playtime_2weeks": 49,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 3036
+            }
+        ],
+        "img_icon_url": "f087183f42804b06bcd59b47536c23b398061fc1"
+    },
+    "2868840": {
+        "name": "Slay the Spire 2",
+        "recently_played": true,
+        "playtime_2weeks": 1397,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 3004
+            }
+        ],
+        "img_icon_url": "f92b09dab91f1d1738f72fe0dd9be18dcc2901f9"
+    },
+    "960090": {
+        "name": "Bloons TD 6",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2773
+            }
+        ],
+        "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0"
+    },
+    "1281930": {
+        "name": "tModLoader",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2758
+            }
+        ],
+        "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131"
+    },
+    "3489700": {
+        "name": "Stellar Blade\u2122",
+        "recently_played": true,
+        "playtime_2weeks": 109,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2670
+            }
+        ],
+        "img_icon_url": "57038a59c95ccee823169ffd580adef713543d46"
+    },
+    "728880": {
+        "name": "Overcooked! 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2573
+            }
+        ],
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54"
+    },
+    "1369320": {
+        "name": "Virtual Cottage",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2477
+            }
+        ],
+        "img_icon_url": "74a82742492c2c5e456c8eeca2b74aa52694a04f"
+    },
+    "3330250": {
+        "name": "Ithya: Magic Studies",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2470
+            }
+        ],
+        "img_icon_url": "b272c3a7eafb3ae66e92a50e0a46516a621b0b43"
+    },
+    "677120": {
+        "name": "Heroes of Hammerwatch",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2376
+            }
+        ],
+        "img_icon_url": "35b858239823230dbf0eea1daab15b2d00201aa6"
+    },
+    "965680": {
+        "name": "Boomerang Fu",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2335
+            }
+        ],
+        "img_icon_url": "b931535c0cbe5c37a34ed2cffd752cd59c4e41d4"
+    },
+    "293780": {
+        "name": "Crawl",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2048
+            }
+        ],
+        "img_icon_url": "139dfb62ede8539f33b354e0c6852f37c7e58aea"
+    },
+    "1958220": {
+        "name": "WitchSpring R",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 2032
+            }
+        ],
+        "img_icon_url": "100b5172566ba747c73cacc5c00a13ef25dbf230"
+    },
+    "739630": {
+        "name": "Phasmophobia",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1860
+            }
+        ],
+        "img_icon_url": "125673b382059f666ec81477173380a76e1df0be"
+    },
+    "548430": {
+        "name": "Deep Rock Galactic",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1812
+            }
+        ],
+        "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447"
+    },
+    "253230": {
+        "name": "A Hat in Time",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1738
+            }
+        ],
+        "img_icon_url": "7b934282eeb45507669ed7c08378c51bb902721f"
+    },
+    "730": {
+        "name": "Counter-Strike 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1693
+            }
+        ],
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+    },
+    "858210": {
+        "name": "Nova Drift",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1690
+            }
+        ],
+        "img_icon_url": "5b679343f9b0c0f19bb50843c225ceb44f2e604f"
+    },
+    "553420": {
+        "name": "TUNIC",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1673
+            }
+        ],
+        "img_icon_url": "f4c05eb0f62914cf03a33c820e42359dad439912"
+    },
+    "413150": {
+        "name": "Stardew Valley",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1659
+            }
+        ],
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40"
+    },
+    "1533420": {
+        "name": "Neon White",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1628
+            }
+        ],
+        "img_icon_url": "0c26e58be78678cb80716370bd607778d85b3ab5"
+    },
+    "1546710": {
+        "name": "Vernal Edge",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1580
+            }
+        ],
+        "img_icon_url": "ccaa41945971180b508aed3baad262c4d4733ba4"
+    },
+    "1229380": {
+        "name": "Everhood",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1561
+            }
+        ],
+        "img_icon_url": "19d60e8341deecec3a1f9499f8a509b3bc482246"
+    },
+    "238960": {
+        "name": "Path of Exile",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1529
+            }
+        ],
+        "img_icon_url": "1110764aac57ac28d7ffd8c43071c75d5482a9c9"
+    },
+    "613830": {
+        "name": "CHRONO TRIGGER",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1503
+            }
+        ],
+        "img_icon_url": "55a9d56a52886b6cbf197894de096eb79fe1c3ab"
+    },
+    "447530": {
+        "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1484
+            }
+        ],
+        "img_icon_url": "eb4485232d4ac9ec5a786fa4ba5b9c95fc3e8d63"
+    },
+    "1336490": {
+        "name": "Against the Storm",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1422
+            }
+        ],
+        "img_icon_url": "f26712271f7b0554cc1c6fb0267f122c47cf6e85"
+    },
+    "312520": {
+        "name": "Rain World",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1371
+            }
+        ],
+        "img_icon_url": "5854494b840a18a660a495d6259d562b51f21240"
+    },
+    "736260": {
+        "name": "Baba Is You",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1327
+            }
+        ],
+        "img_icon_url": "9b9e1838838c21ee443359efe30b6a56cf0531dd"
+    },
+    "1621690": {
+        "name": "Core Keeper",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1320
+            }
+        ],
+        "img_icon_url": "53517a1b2eb22e22ac4a1f71c814209f1b84c063"
+    },
+    "1625450": {
+        "name": "Muck",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1304
+            }
+        ],
+        "img_icon_url": "a123e3d10527fbdf3fea7ea235e11b41da3754dc"
+    },
+    "386940": {
+        "name": "Ultimate Chicken Horse",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1240
+            }
+        ],
+        "img_icon_url": "07e45651fd2e37fde1d512c4cb77238ff5ce97c0"
+    },
+    "1062110": {
+        "name": "UNSIGHTED",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1218
+            }
+        ],
+        "img_icon_url": "7c29f932fb349a7d186a36df3ffdb848537a7b84"
+    },
+    "1812370": {
+        "name": "Little Goody Two Shoes",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1211
+            }
+        ],
+        "img_icon_url": "7919751f8297c48d56cc62393ff1f104c5773239"
+    },
+    "361420": {
+        "name": "ASTRONEER",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1180
+            }
+        ],
+        "img_icon_url": "18ef632a152a69a8fb4f62c074cd50aa15d3bf33"
+    },
+    "1057090": {
+        "name": "Ori and the Will of the Wisps",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1177
+            }
+        ],
+        "img_icon_url": "ea50b151bb1e2c39e7bdd3ff4f8cc5e8738d6983"
+    },
+    "460950": {
+        "name": "Katana ZERO",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1104
+            }
+        ],
+        "img_icon_url": "874ee87e03abd66ff158727c051ceb173e3cba3c"
+    },
+    "753640": {
+        "name": "Outer Wilds",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 1077
+            }
+        ],
+        "img_icon_url": "8d0c2dcfc599445affcbad76a34d89478c022780"
+    },
+    "1368030": {
+        "name": "ANNO: Mutationem",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 911
+            }
+        ],
+        "img_icon_url": "394ce04077313393ccce1ae9e7e1d2c4a60f7753"
+    },
+    "1675830": {
+        "name": "1000xRESIST",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 879
+            }
+        ],
+        "img_icon_url": "88240547353366b741c9e44cfda44581325eabe7"
+    },
+    "1402120": {
+        "name": "9 Years of Shadows",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 844
+            }
+        ],
+        "img_icon_url": "78c2dd5854255aac313817ae03d7f8be35d5df27"
+    },
+    "686200": {
+        "name": "Door Kickers: Action Squad",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 801
+            }
+        ],
+        "img_icon_url": "fc3c36bdb52d2fb2aef20aaf66843ef4ed146932"
+    },
+    "674940": {
+        "name": "Stick Fight: The Game",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 770
+            }
+        ],
+        "img_icon_url": "28bc7ba8952d488e01e7136126cbbc3b42ee443a"
+    },
+    "1340480": {
+        "name": "The Cosmic Wheel Sisterhood",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 769
+            }
+        ],
+        "img_icon_url": "ac71164bc4425a5d582ed053c7bc17881bb8cc54"
+    },
+    "2240620": {
+        "name": "UNBEATABLE",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 765
+            }
+        ],
+        "img_icon_url": "36fd4cfa34bc6737e129e2afb93e8388a48ea351"
+    },
+    "589500": {
+        "name": "Shovel Knight: Shovel of Hope",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 736
+            }
+        ],
+        "img_icon_url": "3c7c8a7938f9e94ffb9955aa94f3f03823047207"
+    },
+    "504230": {
+        "name": "Celeste",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 696
+            }
+        ],
+        "img_icon_url": "04cb7aa0b497a3962e6b1655b7fd81a2cc95d18b"
+    },
+    "1984020": {
+        "name": "Everhood 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 688
+            }
+        ],
+        "img_icon_url": "fb71da183a1391eacc5a1c352b95b5d3352d1d0c"
+    },
+    "257850": {
+        "name": "Hyper Light Drifter",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 684
+            }
+        ],
+        "img_icon_url": "d7d57d58051fec87e4b5c54bbac5bfacdd0ac964"
+    },
+    "311690": {
+        "name": "Enter the Gungeon",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 679
+            }
+        ],
+        "img_icon_url": "b459d94ad4b6a5eabd71005874037b9577a4ca31"
+    },
+    "1617030": {
+        "name": "tERRORbane",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 678
+            }
+        ],
+        "img_icon_url": "2a1060d489abc7b63924cafcabb99295938dbc9e"
+    },
+    "1229490": {
+        "name": "ULTRAKILL",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 664
+            }
+        ],
+        "img_icon_url": "665f952065f0512a2079efd77308e6a5af23dfd6"
+    },
+    "524220": {
+        "name": "NieR:Automata\u2122",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 622
+            }
+        ],
+        "img_icon_url": "ec431ecb2a5178c5a01bb15550f112f93af029bb"
+    },
+    "1664200": {
+        "name": "Duelists of Eden",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 612
+            }
+        ],
+        "img_icon_url": "a62fd139afff2cefd8152068f1e74909c6313dfd"
+    },
+    "813230": {
+        "name": "ANIMAL WELL",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 531
+            }
+        ],
+        "img_icon_url": "860b275ec0e63d6a74f6f3f9fc8dd75a49065f07"
+    },
+    "757310": {
+        "name": "Sable",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 521
+            }
+        ],
+        "img_icon_url": "99b24f25b351f471e84ac9f3a25498505b679695"
+    },
+    "252110": {
+        "name": "Lovers in a Dangerous Spacetime",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 516
+            }
+        ],
+        "img_icon_url": "1661236ad6879957c73f0090efee34cdba2be649"
+    },
+    "2365810": {
+        "name": "Pseudoregalia",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 512
+            }
+        ],
+        "img_icon_url": "154db7f762c3b5f9b43845725aa4099bdb6c24b3"
+    },
+    "1809540": {
+        "name": "Nine Sols",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 456
+            }
+        ],
+        "img_icon_url": "9ba25f8e1b636ee56cc37196eb6fbcc13defac8e"
+    },
+    "1668690": {
+        "name": "Alina of the Arena",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 445
+            }
+        ],
+        "img_icon_url": "71a638119fff7f4e8d1fcdc51a52c9a23fb96e0a"
+    },
+    "1714040": {
+        "name": "Super Auto Pets",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 443
+            }
+        ],
+        "img_icon_url": "741a65b9af8572a8bffe15fe50ca2e35479d1526"
+    },
+    "2386720": {
+        "name": "STRAFTAT",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 422
+            }
+        ],
+        "img_icon_url": "b068dd4be06a24096030295d4790caa23ff7de59"
+    },
+    "1585180": {
+        "name": "Drova - Forsaken Kin",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 419
+            }
+        ],
+        "img_icon_url": "4b22d24796d1967e2f8c7cd0a29a532907e23217"
+    },
+    "2089600": {
+        "name": "Urban Myth Dissolution Center",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 417
+            }
+        ],
+        "img_icon_url": "8447d7dd15ef29ae9f7f011507425de0f0cc412b"
+    },
+    "701160": {
+        "name": "Kingdom Two Crowns",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 407
+            }
+        ],
+        "img_icon_url": "7bf44c4e301a0f6fae78f697b39b5a1268223945"
+    },
+    "1843760": {
+        "name": "Rogue Tower",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 385
+            }
+        ],
+        "img_icon_url": "2d7edc560025b7656657953a202f65d32fef4dcb"
+    },
+    "1206560": {
+        "name": "WorldBox - God Simulator",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 380
+            }
+        ],
+        "img_icon_url": "8f619ad226e578bcdc8be419f7b73e583b5b9cad"
+    },
+    "2881650": {
+        "name": "Content Warning",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 374
+            }
+        ],
+        "img_icon_url": "513cf7f2e22c94f4372369e29bffccc4c239e9c0"
+    },
+    "1328530": {
+        "name": "Quantum Protocol",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 373
+            }
+        ],
+        "img_icon_url": "0a01d5afe3a44853b7b986e9d7faf2513703a202"
+    },
+    "892970": {
+        "name": "Valheim",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 367
+            }
+        ],
+        "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143"
+    },
+    "774361": {
+        "name": "Blasphemous",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 363
+            }
+        ],
+        "img_icon_url": "4adaff16db14b2cf3bcfda2c523f0d4d68e15d6f"
+    },
+    "460790": {
+        "name": "Bayonetta",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 361
+            }
+        ],
+        "img_icon_url": "9c591c4d3d3d5e5164ba08465aaf4407d86301b9"
+    },
+    "3716600": {
+        "name": "Mage Arena",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 355
+            }
+        ],
+        "img_icon_url": "46a9d7edea98cc637b327ee188a5d1524f32448e"
+    },
+    "4122860": {
+        "name": "Z.A.T.O. // I Love the World and Everything In It",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 349
+            }
+        ],
+        "img_icon_url": "279871be81ffe844e0ac24a1afea74af33126822"
+    },
+    "3108510": {
+        "name": "FlyKnight",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 345
+            }
+        ],
+        "img_icon_url": "add1e5a6526f7271a89271c6b16d282acb982173"
+    },
+    "550": {
+        "name": "Left 4 Dead 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 331
+            }
+        ],
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed"
+    },
+    "1989270": {
+        "name": "Slay the Princess \u2014 The Pristine Cut",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 308
+            }
+        ],
+        "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b"
+    },
+    "3241660": {
+        "name": "R.E.P.O.",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 307
+            }
+        ],
+        "img_icon_url": "b8bf4770408fc369e15cebd42e0026a27b67aaa8"
+    },
+    "1289310": {
+        "name": "Helltaker",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 285
+            }
+        ],
+        "img_icon_url": "c4cfc91850d08836a6b49bc0509f7b0e3e17ffa4"
+    },
+    "1262350": {
+        "name": "SIGNALIS",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 277
+            }
+        ],
+        "img_icon_url": "a59153e59c9040d8a8561d78285106d88715ee20"
+    },
+    "1121560": {
+        "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 265
+            }
+        ],
+        "img_icon_url": "3c4123ea233e00e94a92f9005333a39442e8d9fd"
+    },
+    "1170570": {
+        "name": "The Drifter",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 260
+            }
+        ],
+        "img_icon_url": "f3f1a02622b225fb0f059a356d71dfc04fa97755"
+    },
+    "1795430": {
+        "name": "Sakura Succubus 5",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 254
+            }
+        ],
+        "img_icon_url": "2bd26a521bc4f88cdf852415c7133b68429268fe"
+    },
+    "552500": {
+        "name": "Warhammer: Vermintide 2",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 253
+            }
+        ],
+        "img_icon_url": "a671f2ddf7359beba9702ac097baf6d50cb07202"
+    },
+    "1961390": {
+        "name": "Sakura Succubus 6",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 253
+            }
+        ],
+        "img_icon_url": "9b743c2ccf1fbe2e029a7f52fef009dd28c145ef"
+    },
+    "1745510": {
+        "name": "Lunacid",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 245
+            }
+        ],
+        "img_icon_url": "009333bdf77ddd80e4d998686de20d56bf9a8fd7"
+    },
+    "2420660": {
+        "name": "Neva",
+        "recently_played": true,
+        "playtime_2weeks": 232,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 232
+            }
+        ],
+        "img_icon_url": "259a7b4cab806a04df767565d0c8cae95cffd43c"
+    },
+    "1446780": {
+        "name": "MONSTER HUNTER RISE",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 227
+            }
+        ],
+        "img_icon_url": "560dd364b52075b783424961a43c01f9b69fde15"
+    },
+    "809020": {
+        "name": "ZeroRanger",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 221
+            }
+        ],
+        "img_icon_url": "807c9b0f292c4be4bc8d447019e736f52716d04c"
+    },
+    "2073850": {
+        "name": "THE FINALS",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 221
+            }
+        ],
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909"
+    },
+    "1271280": {
+        "name": "Rift Wizard",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 218
+            }
+        ],
+        "img_icon_url": "e05aafb7433b19afe133d5511308313075f6ec03"
+    },
+    "683320": {
+        "name": "GRIS",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 188
+            }
+        ],
+        "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93"
+    },
+    "2965660": {
+        "name": "PILGRIM",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 177
+            }
+        ],
+        "img_icon_url": "5c10face57c39b4b7c8a648739c447d372ee1cc2"
+    },
+    "250760": {
+        "name": "Shovel Knight: Treasure Trove",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 175
+            }
+        ],
+        "img_icon_url": "a4df2557166453374519b64ed5ccef3f0a643f4e"
+    },
+    "1451940": {
+        "name": "NEEDY STREAMER OVERLOAD",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 163
+            }
+        ],
+        "img_icon_url": "2d9e7f71e6372b3f8b4a7a2a9f1fcfdbd28061c1"
+    },
+    "2132850": {
+        "name": "Rabbit and Steel",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 163
+            }
+        ],
+        "img_icon_url": "c12f139a29e2d50549fde90783c3ccad6df12cc3"
+    },
+    "1899060": {
+        "name": "Pocket Mirror ~ GoldenerTraum",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 144
+            }
+        ],
+        "img_icon_url": "77ea286455db0cfe55d9cde49dc9e2fd9af2d597"
+    },
+    "1911390": {
+        "name": "Knightfall: A Daring Journey",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 130
+            }
+        ],
+        "img_icon_url": "8e09cd2255f59c3b079f31525853639fb8ad39e2"
+    },
+    "1135700": {
+        "name": "Welcome To The Dark Place",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 123
+            }
+        ],
+        "img_icon_url": "96ba2ca189029a622ef3ff44e204025195fccbb6"
+    },
+    "638230": {
+        "name": "Journey",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 114
+            }
+        ],
+        "img_icon_url": "8538c0cb998e844ce5c78683f322e9ca81075a34"
+    },
+    "2134320": {
+        "name": "ENA: Dream BBQ",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 109
+            }
+        ],
+        "img_icon_url": "69ba5f3f06cd7aa5de160a4c35daf27a9f04699e"
+    },
+    "1244090": {
+        "name": "Sea of Stars",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 89
+            }
+        ],
+        "img_icon_url": "529d0f064196911482aeeb8f42ffcc1ff77fed67"
+    },
+    "3527290": {
+        "name": "PEAK",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 85
+            }
+        ],
+        "img_icon_url": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd"
+    },
+    "1315980": {
+        "name": "Tin Can",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 78
+            }
+        ],
+        "img_icon_url": "cc9ac56ee637cc00b50b810378e79d9185ce7fa8"
+    },
+    "577690": {
+        "name": "Spooky's Jump Scare Mansion: HD Renovation",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 42
+            }
+        ],
+        "img_icon_url": "78725bee01eef42ef4a33c84fb55b593ccdedbc2"
+    },
+    "1145350": {
+        "name": "Hades II",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 0
+            }
+        ],
+        "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c"
+    },
+    "1443200": {
+        "name": "Class of '09",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 0
+            }
+        ],
+        "img_icon_url": "b3fa67f007b077db33ccc8962c349aba8e34d90b"
+    },
+    "2161700": {
+        "name": "Persona 3 Reload",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 0
+            }
+        ],
+        "img_icon_url": "2aeb189b126f766bb5930f725fbdcdd171a93c56"
+    },
+    "3017330": {
+        "name": "Verho - Curse of Faces",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 0
+            }
+        ],
+        "img_icon_url": "71118ac5c90668e00587629200b244f0e34a8c0f"
+    },
+    "3834090": {
+        "name": "YAPYAP",
+        "recently_played": false,
+        "playtime_2weeks": 0,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 0
+            }
+        ],
+        "img_icon_url": "b90bd3bc55bd618c420179c05bda8f7623c2e876"
+    },
+    "4270390": {
+        "name": "D1AL-ogue",
+        "recently_played": true,
+        "playtime_2weeks": 300,
+        "snapshots": [
+            {
+                "date": "2026-03-30",
+                "playtime_mins": 300
+            }
+        ],
+        "img_icon_url": "8420fed54ad44547d586c3991f64d021f1295d58"
+    }
+}
