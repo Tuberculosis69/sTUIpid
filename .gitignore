@@ -1,0 +1,12 @@
+# Python
+config.py
+__pycache__/
+venv/
+*.pyc
+
+# Java
+*.class
+
+# Project files
+data.json
+images/
