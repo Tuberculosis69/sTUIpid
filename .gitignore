@@ -9,4 +9,7 @@ venv/
 
 # Project files
 data.json
-images/
+data-backup.json
+python/images/
+python/__pycache__/
+.vscode/
