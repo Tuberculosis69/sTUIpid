@@ -1,2 +1,5 @@
-import tracker as tracker
-tracker.start()
+from GameManager import GameManager
+
+manager = GameManager()
+manager.sort_by_playtime()
+manager.save_snapshot()

@@ -5,7 +5,6 @@ from datetime import date
 
 # TODO !! REFACTOR SHIT CODE !!
 
-
 class GameManager:
     
     def __init__(self):
@@ -20,16 +19,16 @@ class GameManager:
             
         # Remove blacklisted items
         self.sorted_data = []
-        for i in range(len(self.games)):
-            curr_name = self.games[i]["name"]
+        for game in self.games:
+            curr_name = game["name"]
             if curr_name in blacklist:
                 print(f"(LOG) Excluded Game: {curr_name}")
             else:
                 self.sorted_data.append({
-                    "appid"    : self.games[i]["appid"], 
-                    "name"     : self.games[i]["name"],
-                    "playtime_mins" : self.games[i]["playtime_forever"],
-                    "img_icon_url"      : self.games[i]["img_icon_url"]
+                    "appid"    : game["appid"], 
+                    "name"     : game["name"],
+                    "playtime_mins" : game["playtime_forever"],
+                    "img_icon_url"      : game["img_icon_url"]
                 })
                 print(f"(LOG) Included Game: {curr_name}")
 
@@ -50,11 +49,11 @@ class GameManager:
             
         games = self.sorted_data
         recent_games = self.recent_games
-        for i in range(len(games)):
-            appid = games[i]["appid"]
-            name = games[i]["name"]
-            playtime_mins = games[i]["playtime_mins"]
-            img_icon_url = games[i]["img_icon_url"]
+        for game in games:
+            appid = game["appid"]
+            name = game["name"]
+            playtime_mins = game["playtime_mins"]
+            img_icon_url = game["img_icon_url"]
             
             # Assume not a recent game
             playtime_2weeks_mins = 0
@@ -66,8 +65,8 @@ class GameManager:
                 # Check for duplicate entries before adding
                 no_duplicate_date = True
                 snapshots = data[str(appid)]["snapshots"]
-                for i in range(len(snapshots)):
-                    if snapshots[i]["date"] == snapshot_date:
+                for snapshot in snapshots:
+                    if snapshot["date"] == snapshot_date:
                         no_duplicate_date = False
                 if no_duplicate_date:
                     data[str(appid)]["snapshots"].append({
@@ -101,9 +100,9 @@ class GameManager:
             print(f"(ERR) Error loading .json : {e}")
                             
         # Loop through all recent games and update accordingly    
-        for i in range(len(recent_games)):
-            appid = str(recent_games[i]["appid"])
-            playtime_2weeks_mins = recent_games[i]["playtime_2weeks"]
+        for game in recent_games:
+            appid = str(game["appid"])
+            playtime_2weeks_mins = game["playtime_2weeks"]
             
             try:
                 data[appid]["recently_played"] = True
@@ -112,11 +111,11 @@ class GameManager:
                 # There was a game that only showed up in the get_recent_games call but not the get_owned_games call,
                 # despite the include_played_free_games flag, so this is a fallback for this edge case that adds it to the data anyways
                 data[appid] = {
-                    "name" : recent_games[i]["na        colorama.init()me"],
+                    "name" : game["name"],
                     "recently_played" : True,
                     "playtime_2weeks" : recent_games[i]["playtime_2weeks"],
                     "snapshots" : [{
-                            "date" : snapshot_date, "playtime_mins" : recent_games[i]["playtime_forever"]
+                            "date" : snapshot_date, "playtime_mins" : game["playtime_forever"]
                         }],
                     "img_icon_url" : recent_games[i]["img_icon_url"]
                 }
@@ -133,7 +132,7 @@ class GameManager:
     def save_images(self):
         data = self.sorted_data
         
-        for i in range(len(data)):
-            appid = data[i]["appid"]
-            img_icon_url = data[i]["img_icon_url"]
+        for game in data:
+            appid = game["appid"]
+            img_icon_url = game["img_icon_url"]
             api.save_img(appid, img_icon_url)
