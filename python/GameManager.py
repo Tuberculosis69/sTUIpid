@@ -6,9 +6,8 @@ from datetime import date
 # TODO !! REFACTOR SHIT CODE !!
 
 class GameManager:
-    
-    def __init__(self):
-        
+
+    def sort_by_playtime(self):
         self.games = api.get_owned_games()
         self.recent_games = api.get_recent_games()
         self.player_data = api.get_player_summary()
@@ -31,8 +30,7 @@ class GameManager:
                     "img_icon_url"      : game["img_icon_url"]
                 })
                 print(f"(LOG) Included Game: {curr_name}")
-
-    def sort_by_playtime(self):
+        
         self.sorted_data = sorted(self.sorted_data, key=itemgetter('playtime_mins'), reverse=True)
         
     def save_snapshot(self):
@@ -113,11 +111,11 @@ class GameManager:
                 data[appid] = {
                     "name" : game["name"],
                     "recently_played" : True,
-                    "playtime_2weeks" : recent_games[i]["playtime_2weeks"],
+                    "playtime_2weeks" : game["playtime_2weeks"],
                     "snapshots" : [{
                             "date" : snapshot_date, "playtime_mins" : game["playtime_forever"]
                         }],
-                    "img_icon_url" : recent_games[i]["img_icon_url"]
+                    "img_icon_url" : game["img_icon_url"]
                 }
                 print(f"(WAR) A game with appid {e} is only appearing in get_recent_games but not get_owned_games.")
                 
@@ -128,11 +126,26 @@ class GameManager:
             
         print("\nFinished Updating Data\n")
     
-    # Just in case, this can save all images at once
-    def save_images(self):
-        data = self.sorted_data
+    # This function is for troublesome games that don't appear in get_owned_games, it checks both recent and owned.
+    def fix_image(self, appid):
+        owned_games = api.get_owned_games()
+        recent_games = api.get_recent_games()
         
-        for game in data:
-            appid = game["appid"]
-            img_icon_url = game["img_icon_url"]
-            api.save_img(appid, img_icon_url)
+        hash = None
+        
+        for game in owned_games:
+            if str(game["appid"]) == str(appid):
+                hash = game["img_icon_url"]
+                break
+                
+        if hash is None:
+            # Fallback onto recent games
+            for game in recent_games:
+                if str(game["appid"]) == str(appid):
+                    hash = game["img_icon_url"]
+                    break
+            
+        if hash is not None:
+            api.save_img(appid, hash)
+        else:
+            print(f"(ERR) Could not find image hash for appid {appid}")

@@ -108,7 +108,7 @@ public class GameManager {
 
             try {
                 Integer selected_game_index = Integer.parseInt(scanner.nextLine());
-                selectedGame = optionList.get(selected_game_index);
+                selectedGame = optionList.get(selected_game_index - 1);
                 showGameStatsAndDetails(selectedGame);
             } catch (NumberFormatException e) {
                 print("Option is not a number, try again.");
@@ -128,9 +128,9 @@ public class GameManager {
         System.out.printf("  %-30s %9s %16s%n", "Game", "Playtime", "Recent Playtime");
         System.out.printf("  %-30s %9s %16s%n", "----", "--------", "---------------");
         System.out.printf("  %-30s %8.1fh %15.1fh%n", game.name, game.playtime / 60.0, game.playtime_2weeks / 60.0);
-
+        
+        print("");
         showASCIIart(game.appid);
-        print(game.appid);
         printDivider(65);
     }
 
