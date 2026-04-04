@@ -98,10 +98,29 @@ def save_img(appid, hash):
         with open(f"images/{appid}.jpg", "wb") as f:
             f.write(response.content)
         print(f"(LOG) Saved images/{appid}.jpg")
+        
     except requests.exceptions.ConnectionError:
         print("Error: No internet connection.")
     except requests.exceptions.HTTPError as e:
         print(f"HTTP Error: {e}")
     except Exception as e:
-        print(f"Unexpected error fetching player summary: {e}")
+        print(f"Unexpected error fetching image icon: {e}")
+
+def save_profile_img(url):
+    
+    params = {}
+    
+    print("(LOG) Saving avatar image...")
+    try:
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        with open("images/profile/avatar.jpg", "wb") as f:
+            f.write(response.content)
+        print(f"(LOG) Saved avatar image to images/profile/avatar.jpg")
         
+    except requests.exceptions.ConnectionError:
+        print("Error: No internet connection.")
+    except requests.exceptions.HTTPError as e:
+        print(f"HTTP Error: {e}")
+    except Exception as e:
+        print(f"Unexpected error fetching avatar image: {e}")

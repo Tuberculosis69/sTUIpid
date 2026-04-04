@@ -3,8 +3,6 @@ from operator import itemgetter
 import json
 from datetime import date
 
-# TODO !! REFACTOR SHIT CODE !!
-
 class GameManager:
 
     def sort_by_playtime(self):
