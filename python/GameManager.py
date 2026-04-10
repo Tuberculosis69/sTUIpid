@@ -1,7 +1,8 @@
 import api as api
 from operator import itemgetter
 import json
-from datetime import date
+from datetime import date, datetime
+import time
 
 class GameManager:
 
@@ -147,3 +148,40 @@ class GameManager:
             api.save_img(appid, hash)
         else:
             print(f"(ERR) Could not find image hash for appid {appid}")
+            
+    def save_profile_data(self):
+        profile_data = api.get_player_summary()
+        
+        username = profile_data["personaname"]
+        
+        # Calculate account age in years
+        account_age_seconds = profile_data["lastlogoff"] - profile_data["timecreated"]
+        account_age = round(account_age_seconds / 31556952, 2) # Divide by number of seconds in a year
+        
+        # Calculate how many hours ago was last login
+        last_login_seconds = profile_data["lastlogoff"]
+        current_time_seconds = time.time()
+        last_login = round((current_time_seconds - last_login_seconds) / 3600, 2)
+
+        data = {}
+        
+        try: 
+            with open("./images/profile/profile-data.json", "r") as f:
+                data = json.load(f)
+                
+        except ValueError:
+            # profile-data.json is empty, initialize values
+            data = {
+                "username" : username,
+                "account_age" : account_age,
+                "last_login" : last_login,
+                "favourite_game" : "Not Set"
+            }
+        
+        # Refresh values
+        data["username"] = username
+        data["account_age"] = account_age
+        data["last_login"] = last_login
+        
+        with open("./images/profile/profile-data.json", "w") as f:
+            json.dump(data, f, indent=4)

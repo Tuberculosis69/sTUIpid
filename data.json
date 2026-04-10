@@ -2,7 +2,7 @@
     "105600": {
         "name": "Terraria",
         "recently_played": true,
-        "playtime_2weeks": 669,
+        "playtime_2weeks": 384,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -14,6 +14,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 30677
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 30677
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 30677
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 30677
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 30677
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 30677
             }
         ],
@@ -35,6 +55,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 26955
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 26955
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 26955
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 26955
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 26955
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 26955
             }
         ],
         "img_icon_url": "39723bd19ec6b125b10de1747b9974157d762785"
@@ -55,6 +95,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 16025
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 16025
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 16025
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 16025
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 16025
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 16025
             }
         ],
         "img_icon_url": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c"
@@ -62,7 +122,7 @@
     "1966720": {
         "name": "Lethal Company",
         "recently_played": true,
-        "playtime_2weeks": 141,
+        "playtime_2weeks": 114,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -75,6 +135,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 14199
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 14199
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 14199
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 14199
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 14242
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 14242
             }
         ],
         "img_icon_url": "80d2453285274e4723c884a671cdd3f8fe2f766f"
@@ -94,6 +174,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 12269
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 12269
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 12269
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 12269
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 12269
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 12269
             }
         ],
@@ -115,6 +215,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 11175
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 11175
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 11175
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 11175
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 11175
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 11175
             }
         ],
         "img_icon_url": "188180728b733f64997d37d6ca92d1482405ca71"
@@ -134,6 +254,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 10066
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 10066
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 10066
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 10066
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 10066
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 10066
             }
         ],
@@ -155,6 +295,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 9247
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 9247
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 9247
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 9247
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 9247
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 9247
             }
         ],
         "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
@@ -175,14 +335,34 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 8402
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 8402
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 8402
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 8402
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 8402
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 8402
             }
         ],
         "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
     },
     "371970": {
         "name": "Barony",
-        "recently_played": false,
-        "playtime_2weeks": 0,
+        "recently_played": true,
+        "playtime_2weeks": 84,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -195,6 +375,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 8031
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 8116
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 8116
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 8116
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 8116
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 8116
             }
         ],
         "img_icon_url": "9288677a439edf26c4ca28a8de14a0a40e880d15"
@@ -214,6 +414,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 7600
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 7600
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 7600
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 7600
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 7600
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 7600
             }
         ],
@@ -235,6 +455,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 7259
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 7259
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 7259
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 7259
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 7259
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 7259
             }
         ],
         "img_icon_url": "f6ab055c2366237200b1a31cccbd6cf81e436d72"
@@ -254,6 +494,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 6643
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 6643
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 6643
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 6643
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 6643
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 6643
             }
         ],
@@ -275,6 +535,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 5291
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 5291
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 5291
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 5291
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 5291
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 5291
             }
         ],
         "img_icon_url": "6803ab78408dc6e2b3431891438589e15bb6a2ee"
@@ -294,6 +574,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 5098
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 5098
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 5098
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 5098
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 5098
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 5098
             }
         ],
@@ -315,6 +615,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 4925
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 4925
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 4925
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 4925
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 4925
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 4925
             }
         ],
         "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5"
@@ -334,6 +654,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 4378
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 4378
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 4378
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 4378
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 4378
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 4378
             }
         ],
@@ -355,6 +695,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 3927
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 3927
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 3927
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 3927
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 3927
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 3927
             }
         ],
         "img_icon_url": "33ea124ea8c03a9ce7012d34c3b348a351612fca"
@@ -374,6 +734,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 3758
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 3758
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 3758
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 3758
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 3758
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 3758
             }
         ],
@@ -395,6 +775,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 3686
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 3686
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 3686
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 3686
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 3686
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 3686
             }
         ],
         "img_icon_url": "8a3fca36a00883e8066263ad35dd15d77a1f9abc"
@@ -415,6 +815,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 3089
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 3089
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 3089
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 3089
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 3089
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 3089
             }
         ],
         "img_icon_url": "8b5b87de36b26c7181970f9299cadf6ec18f9d55"
@@ -422,7 +842,7 @@
     "1557740": {
         "name": "ROUNDS",
         "recently_played": true,
-        "playtime_2weeks": 2,
+        "playtime_2weeks": 1,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -435,6 +855,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 3036
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 3036
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 3036
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 3036
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 3036
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 3036
             }
         ],
         "img_icon_url": "f087183f42804b06bcd59b47536c23b398061fc1"
@@ -442,7 +882,7 @@
     "2868840": {
         "name": "Slay the Spire 2",
         "recently_played": true,
-        "playtime_2weeks": 1346,
+        "playtime_2weeks": 917,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -455,6 +895,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 3425
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 3761
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 3761
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 3820
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 3860
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 3860
             }
         ],
         "img_icon_url": "f92b09dab91f1d1738f72fe0dd9be18dcc2901f9"
@@ -474,6 +934,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 2773
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2773
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2773
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2773
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2773
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 2773
             }
         ],
@@ -495,6 +975,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 2758
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2758
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2758
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2758
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2758
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 2758
             }
         ],
         "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131"
@@ -502,7 +1002,7 @@
     "3489700": {
         "name": "Stellar Blade\u2122",
         "recently_played": true,
-        "playtime_2weeks": 282,
+        "playtime_2weeks": 172,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -514,6 +1014,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 2842
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2842
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2842
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2842
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2842
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 2842
             }
         ],
@@ -535,6 +1055,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 2573
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2573
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2573
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2573
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2573
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 2573
             }
         ],
         "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54"
@@ -554,6 +1094,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 2477
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2477
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2477
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2477
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2477
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 2477
             }
         ],
@@ -575,6 +1135,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 2470
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2470
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2470
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2470
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2470
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 2470
             }
         ],
         "img_icon_url": "b272c3a7eafb3ae66e92a50e0a46516a621b0b43"
@@ -594,6 +1174,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 2376
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2376
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2376
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2376
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2376
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 2376
             }
         ],
@@ -615,6 +1215,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 2335
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2335
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2335
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2335
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2335
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 2335
             }
         ],
         "img_icon_url": "b931535c0cbe5c37a34ed2cffd752cd59c4e41d4"
@@ -634,6 +1254,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 2048
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2048
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2048
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2048
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2048
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 2048
             }
         ],
@@ -655,6 +1295,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 2032
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 2032
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 2032
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 2032
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 2032
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 2032
             }
         ],
         "img_icon_url": "100b5172566ba747c73cacc5c00a13ef25dbf230"
@@ -674,6 +1334,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1860
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1860
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1860
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1860
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1860
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1860
             }
         ],
@@ -695,6 +1375,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1812
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1812
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1812
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1812
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1812
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1812
             }
         ],
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447"
@@ -714,6 +1414,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1738
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1738
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1738
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1738
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1738
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1738
             }
         ],
@@ -735,6 +1455,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1693
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1693
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1693
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1693
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1693
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1693
             }
         ],
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
@@ -754,6 +1494,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1690
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1690
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1690
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1690
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1690
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1690
             }
         ],
@@ -775,6 +1535,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1673
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1673
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1673
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1673
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1673
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1673
             }
         ],
         "img_icon_url": "f4c05eb0f62914cf03a33c820e42359dad439912"
@@ -794,6 +1574,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1659
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1659
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1659
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1659
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1659
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1659
             }
         ],
@@ -815,6 +1615,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1628
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1628
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1628
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1628
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1628
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1628
             }
         ],
         "img_icon_url": "0c26e58be78678cb80716370bd607778d85b3ab5"
@@ -834,6 +1654,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1580
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1580
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1580
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1580
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1580
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1580
             }
         ],
@@ -855,6 +1695,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1561
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1561
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1561
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1561
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1561
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1561
             }
         ],
         "img_icon_url": "19d60e8341deecec3a1f9499f8a509b3bc482246"
@@ -874,6 +1734,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1529
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1529
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1529
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1529
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1529
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1529
             }
         ],
@@ -895,6 +1775,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1503
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1503
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1503
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1503
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1503
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1503
             }
         ],
         "img_icon_url": "55a9d56a52886b6cbf197894de096eb79fe1c3ab"
@@ -914,6 +1814,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1484
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1484
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1484
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1484
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1484
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1484
             }
         ],
@@ -935,6 +1855,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1422
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1422
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1422
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1422
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1422
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1422
             }
         ],
         "img_icon_url": "f26712271f7b0554cc1c6fb0267f122c47cf6e85"
@@ -954,6 +1894,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1371
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1371
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1371
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1371
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1371
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1371
             }
         ],
@@ -975,6 +1935,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1327
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1327
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1327
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1327
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1327
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1327
             }
         ],
         "img_icon_url": "9b9e1838838c21ee443359efe30b6a56cf0531dd"
@@ -994,6 +1974,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1320
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1320
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1320
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1320
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1320
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1320
             }
         ],
@@ -1015,6 +2015,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1304
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1304
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1304
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1304
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1304
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1304
             }
         ],
         "img_icon_url": "a123e3d10527fbdf3fea7ea235e11b41da3754dc"
@@ -1034,6 +2054,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1240
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1240
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1240
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1240
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1240
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1240
             }
         ],
@@ -1055,6 +2095,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1218
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1218
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1218
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1218
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1218
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1218
             }
         ],
         "img_icon_url": "7c29f932fb349a7d186a36df3ffdb848537a7b84"
@@ -1074,6 +2134,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1211
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1211
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1211
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1211
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1211
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1211
             }
         ],
@@ -1095,6 +2175,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1180
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1180
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1180
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1180
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1180
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1180
             }
         ],
         "img_icon_url": "18ef632a152a69a8fb4f62c074cd50aa15d3bf33"
@@ -1114,6 +2214,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1177
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1177
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1177
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1177
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1177
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1177
             }
         ],
@@ -1135,6 +2255,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 1104
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1104
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1104
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1104
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1104
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 1104
             }
         ],
         "img_icon_url": "874ee87e03abd66ff158727c051ceb173e3cba3c"
@@ -1154,6 +2294,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 1077
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 1077
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 1077
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 1077
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 1077
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 1077
             }
         ],
@@ -1175,6 +2335,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 911
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 911
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 911
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 911
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 911
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 911
             }
         ],
         "img_icon_url": "394ce04077313393ccce1ae9e7e1d2c4a60f7753"
@@ -1194,6 +2374,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 879
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 879
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 879
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 879
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 879
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 879
             }
         ],
@@ -1215,6 +2415,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 844
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 844
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 844
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 844
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 844
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 844
             }
         ],
         "img_icon_url": "78c2dd5854255aac313817ae03d7f8be35d5df27"
@@ -1234,6 +2454,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 801
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 801
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 801
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 801
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 801
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 801
             }
         ],
@@ -1255,6 +2495,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 770
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 770
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 770
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 770
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 770
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 770
             }
         ],
         "img_icon_url": "28bc7ba8952d488e01e7136126cbbc3b42ee443a"
@@ -1274,6 +2534,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 769
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 769
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 769
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 769
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 769
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 769
             }
         ],
@@ -1295,6 +2575,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 765
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 765
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 765
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 765
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 765
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 765
             }
         ],
         "img_icon_url": "36fd4cfa34bc6737e129e2afb93e8388a48ea351"
@@ -1314,6 +2614,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 736
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 736
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 736
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 736
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 736
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 736
             }
         ],
@@ -1335,6 +2655,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 696
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 696
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 696
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 696
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 696
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 696
             }
         ],
         "img_icon_url": "04cb7aa0b497a3962e6b1655b7fd81a2cc95d18b"
@@ -1354,6 +2694,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 688
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 688
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 688
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 688
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 688
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 688
             }
         ],
@@ -1375,6 +2735,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 684
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 684
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 684
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 684
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 684
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 684
             }
         ],
         "img_icon_url": "d7d57d58051fec87e4b5c54bbac5bfacdd0ac964"
@@ -1394,6 +2774,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 679
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 679
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 679
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 679
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 679
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 679
             }
         ],
@@ -1415,6 +2815,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 678
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 678
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 678
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 678
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 678
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 678
             }
         ],
         "img_icon_url": "2a1060d489abc7b63924cafcabb99295938dbc9e"
@@ -1434,6 +2854,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 664
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 664
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 664
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 664
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 664
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 664
             }
         ],
@@ -1455,6 +2895,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 622
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 622
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 622
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 622
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 622
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 622
             }
         ],
         "img_icon_url": "ec431ecb2a5178c5a01bb15550f112f93af029bb"
@@ -1474,6 +2934,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 612
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 612
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 612
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 612
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 612
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 612
             }
         ],
@@ -1495,6 +2975,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 531
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 531
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 531
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 531
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 531
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 531
             }
         ],
         "img_icon_url": "860b275ec0e63d6a74f6f3f9fc8dd75a49065f07"
@@ -1514,6 +3014,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 521
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 521
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 521
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 521
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 521
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 521
             }
         ],
@@ -1535,6 +3055,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 516
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 516
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 516
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 516
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 516
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 516
             }
         ],
         "img_icon_url": "1661236ad6879957c73f0090efee34cdba2be649"
@@ -1554,6 +3094,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 512
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 512
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 512
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 512
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 512
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 512
             }
         ],
@@ -1575,6 +3135,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 456
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 456
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 456
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 456
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 456
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 456
             }
         ],
         "img_icon_url": "9ba25f8e1b636ee56cc37196eb6fbcc13defac8e"
@@ -1594,6 +3174,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 445
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 445
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 445
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 445
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 445
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 445
             }
         ],
@@ -1615,6 +3215,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 443
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 443
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 443
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 443
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 443
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 443
             }
         ],
         "img_icon_url": "741a65b9af8572a8bffe15fe50ca2e35479d1526"
@@ -1634,6 +3254,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 422
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 422
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 422
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 422
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 422
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 422
             }
         ],
@@ -1655,6 +3295,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 419
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 419
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 419
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 419
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 419
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 419
             }
         ],
         "img_icon_url": "4b22d24796d1967e2f8c7cd0a29a532907e23217"
@@ -1674,6 +3334,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 417
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 417
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 417
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 417
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 417
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 417
             }
         ],
@@ -1695,6 +3375,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 407
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 407
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 407
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 407
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 407
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 407
             }
         ],
         "img_icon_url": "7bf44c4e301a0f6fae78f697b39b5a1268223945"
@@ -1714,6 +3414,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 385
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 385
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 385
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 385
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 385
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 385
             }
         ],
@@ -1735,6 +3455,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 380
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 380
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 380
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 380
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 380
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 380
             }
         ],
         "img_icon_url": "8f619ad226e578bcdc8be419f7b73e583b5b9cad"
@@ -1754,6 +3494,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 374
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 374
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 374
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 374
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 374
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 374
             }
         ],
@@ -1775,6 +3535,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 373
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 373
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 373
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 373
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 373
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 373
             }
         ],
         "img_icon_url": "0a01d5afe3a44853b7b986e9d7faf2513703a202"
@@ -1794,6 +3574,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 367
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 367
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 367
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 367
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 367
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 367
             }
         ],
@@ -1815,6 +3615,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 363
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 363
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 363
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 363
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 363
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 363
             }
         ],
         "img_icon_url": "4adaff16db14b2cf3bcfda2c523f0d4d68e15d6f"
@@ -1834,6 +3654,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 361
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 361
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 361
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 361
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 361
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 361
             }
         ],
@@ -1855,6 +3695,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 355
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 355
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 355
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 355
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 355
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 355
             }
         ],
         "img_icon_url": "46a9d7edea98cc637b327ee188a5d1524f32448e"
@@ -1874,6 +3734,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 349
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 349
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 349
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 349
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 349
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 349
             }
         ],
@@ -1895,6 +3775,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 345
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 345
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 345
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 345
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 345
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 345
             }
         ],
         "img_icon_url": "add1e5a6526f7271a89271c6b16d282acb982173"
@@ -1914,6 +3814,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 331
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 331
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 331
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 331
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 331
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 331
             }
         ],
@@ -1935,6 +3855,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 308
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 308
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 308
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 308
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 308
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 308
             }
         ],
         "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b"
@@ -1954,6 +3894,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 307
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 307
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 307
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 307
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 307
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 307
             }
         ],
@@ -1975,6 +3935,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 285
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 285
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 285
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 285
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 285
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 285
             }
         ],
         "img_icon_url": "c4cfc91850d08836a6b49bc0509f7b0e3e17ffa4"
@@ -1994,6 +3974,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 277
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 277
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 277
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 277
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 277
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 277
             }
         ],
@@ -2015,6 +4015,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 265
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 265
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 265
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 265
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 265
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 265
             }
         ],
         "img_icon_url": "3c4123ea233e00e94a92f9005333a39442e8d9fd"
@@ -2034,6 +4054,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 260
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 260
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 260
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 260
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 260
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 260
             }
         ],
@@ -2055,6 +4095,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 254
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 254
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 254
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 254
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 254
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 254
             }
         ],
         "img_icon_url": "2bd26a521bc4f88cdf852415c7133b68429268fe"
@@ -2074,6 +4134,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 253
             }
         ],
@@ -2095,14 +4175,34 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 253
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 253
             }
         ],
         "img_icon_url": "9b743c2ccf1fbe2e029a7f52fef009dd28c145ef"
     },
     "1745510": {
         "name": "Lunacid",
-        "recently_played": false,
-        "playtime_2weeks": 0,
+        "recently_played": true,
+        "playtime_2weeks": 171,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -2115,6 +4215,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 245
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 245
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 245
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 245
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 417
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 417
             }
         ],
         "img_icon_url": "009333bdf77ddd80e4d998686de20d56bf9a8fd7"
@@ -2134,6 +4254,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 232
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 232
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 232
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 232
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 232
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 232
             }
         ],
@@ -2155,6 +4295,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 227
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 227
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 227
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 227
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 227
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 227
             }
         ],
         "img_icon_url": "560dd364b52075b783424961a43c01f9b69fde15"
@@ -2174,6 +4334,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 221
             }
         ],
@@ -2195,6 +4375,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 221
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 221
             }
         ],
         "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909"
@@ -2214,6 +4414,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 218
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 218
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 218
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 218
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 218
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 218
             }
         ],
@@ -2235,6 +4455,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 188
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 188
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 188
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 188
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 188
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 188
             }
         ],
         "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93"
@@ -2254,6 +4494,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 177
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 177
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 177
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 177
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 177
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 177
             }
         ],
@@ -2275,6 +4535,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 175
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 175
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 175
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 175
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 175
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 175
             }
         ],
         "img_icon_url": "a4df2557166453374519b64ed5ccef3f0a643f4e"
@@ -2295,14 +4575,34 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 163
             }
         ],
         "img_icon_url": "2d9e7f71e6372b3f8b4a7a2a9f1fcfdbd28061c1"
     },
     "2132850": {
         "name": "Rabbit and Steel",
-        "recently_played": false,
-        "playtime_2weeks": 0,
+        "recently_played": true,
+        "playtime_2weeks": 83,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -2315,14 +4615,34 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 163
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 247
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 247
             }
         ],
         "img_icon_url": "c12f139a29e2d50549fde90783c3ccad6df12cc3"
     },
     "1899060": {
         "name": "Pocket Mirror ~ GoldenerTraum",
-        "recently_played": false,
-        "playtime_2weeks": 0,
+        "recently_played": true,
+        "playtime_2weeks": 243,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -2335,6 +4655,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 144
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 287
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 287
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 388
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 388
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 388
             }
         ],
         "img_icon_url": "77ea286455db0cfe55d9cde49dc9e2fd9af2d597"
@@ -2354,6 +4694,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 130
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 130
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 130
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 130
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 130
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 130
             }
         ],
@@ -2375,6 +4735,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 123
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 123
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 123
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 123
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 123
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 123
             }
         ],
         "img_icon_url": "96ba2ca189029a622ef3ff44e204025195fccbb6"
@@ -2394,6 +4774,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 114
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 114
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 114
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 114
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 114
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 114
             }
         ],
@@ -2415,6 +4815,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 109
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 109
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 109
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 109
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 109
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 109
             }
         ],
         "img_icon_url": "69ba5f3f06cd7aa5de160a4c35daf27a9f04699e"
@@ -2434,6 +4854,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 89
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 89
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 89
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 89
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 89
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 89
             }
         ],
@@ -2455,6 +4895,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 85
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 85
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 85
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 85
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 85
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 85
             }
         ],
         "img_icon_url": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd"
@@ -2474,6 +4934,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 78
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 78
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 78
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 78
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 78
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 78
             }
         ],
@@ -2495,6 +4975,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 42
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 42
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 42
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 42
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 42
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 42
             }
         ],
         "img_icon_url": "78725bee01eef42ef4a33c84fb55b593ccdedbc2"
@@ -2514,6 +5014,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 0
             }
         ],
@@ -2535,6 +5055,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 0
             }
         ],
         "img_icon_url": "b3fa67f007b077db33ccc8962c349aba8e34d90b"
@@ -2554,6 +5094,26 @@
             },
             {
                 "date": "2026-04-02",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-10",
                 "playtime_mins": 0
             }
         ],
@@ -2575,14 +5135,34 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 0
             }
         ],
         "img_icon_url": "71118ac5c90668e00587629200b244f0e34a8c0f"
     },
     "3834090": {
         "name": "YAPYAP",
-        "recently_played": false,
-        "playtime_2weeks": 0,
+        "recently_played": true,
+        "playtime_2weeks": 348,
         "snapshots": [
             {
                 "date": "2026-03-30",
@@ -2595,6 +5175,26 @@
             {
                 "date": "2026-04-02",
                 "playtime_mins": 0
+            },
+            {
+                "date": "2026-04-05",
+                "playtime_mins": 296
+            },
+            {
+                "date": "2026-04-06",
+                "playtime_mins": 296
+            },
+            {
+                "date": "2026-04-07",
+                "playtime_mins": 296
+            },
+            {
+                "date": "2026-04-09",
+                "playtime_mins": 348
+            },
+            {
+                "date": "2026-04-10",
+                "playtime_mins": 348
             }
         ],
         "img_icon_url": "b90bd3bc55bd618c420179c05bda8f7623c2e876"
@@ -2602,7 +5202,7 @@
     "4270390": {
         "name": "D1AL-ogue",
         "recently_played": true,
-        "playtime_2weeks": 300,
+        "playtime_2weeks": 244,
         "snapshots": [
             {
                 "date": "2026-03-30",

@@ -30,7 +30,8 @@ public class GameManager {
             print("Select an option:\n"+
                 "1. View all games\n"+
                 "2. View a specific game\n"+
-                "3. Exit\n"
+                "3. View Profile\n"+
+                "4. Exit\n"
             );
 
             // Await input
@@ -39,7 +40,8 @@ public class GameManager {
             switch (input.toString()) {
                 case "1" -> printLibrary();
                 case "2" -> gameSelector();
-                case "3" -> exit();
+                case "3" -> showProfileASCIIart();
+                case "4" -> exit();
                 default -> print("Invalid option, try again.");
             }
         }
@@ -142,7 +144,20 @@ public class GameManager {
                 .start();
             p.waitFor();   
         } catch (Exception e) {
-            System.out.println("(ERR) An Error Occured While Generating ASCII image");
+            System.out.println("(ERR) An Error Occured While Generating the ASCII image for a game");
+            System.err.println(e);
+        }
+    }
+
+    public void showProfileASCIIart() {
+        try {
+            Process p = new ProcessBuilder("python3", "asciiMaker.py", "-p")
+                .inheritIO()
+                .directory(new File("../python"))
+                .start();
+            p.waitFor();   
+        } catch (Exception e) {
+            System.out.println("(ERR) An Error Occured While Generating the ASCII image for the avatar image");
             System.err.println(e);
         }
     }
