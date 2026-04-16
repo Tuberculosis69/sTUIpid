@@ -2,6 +2,12 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
+import com.googlecode.lanterna.terminal.DefaultTerminalFactory;
+import com.googlecode.lanterna.screen.Screen;
+import com.googlecode.lanterna.screen.TerminalScreen;
+import com.googlecode.lanterna.input.KeyStroke;
+import com.googlecode.lanterna.input.KeyType;
+
 
 public class GameManager {
 
@@ -161,4 +167,25 @@ public class GameManager {
             System.err.println(e);
         }
     }
+
+    public void testLanterna() {
+
+        try {
+            Screen screen = new DefaultTerminalFactory().createScreen();
+            screen.startScreen();   
+
+            while (true) {
+                KeyStroke key = screen.pollInput();
+                if (key != null && key.getKeyType() == KeyType.Escape) {
+                    break;
+                }
+            }
+
+            screen.stopScreen();
+
+        } catch (Exception e) {
+            System.err.println("An Error Has Occured While Making the Terminal Screen: " + e);
+        }
+    }
+    
 }

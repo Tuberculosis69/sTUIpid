@@ -122,8 +122,6 @@ class GameManager:
     
         with open("../data.json", "w") as f:
             json.dump(data, f, indent=4)
-            
-        print("\nFinished Updating Data\n")
     
     # This function is for troublesome games that don't appear in get_owned_games, it checks both recent and owned.
     def fix_image(self, appid):
@@ -150,6 +148,7 @@ class GameManager:
             print(f"(ERR) Could not find image hash for appid {appid}")
             
     def save_profile_data(self):
+        print("(LOG) Updating profile data...")
         profile_data = api.get_player_summary()
         
         username = profile_data["personaname"]
@@ -185,3 +184,5 @@ class GameManager:
         
         with open("./images/profile/profile-data.json", "w") as f:
             json.dump(data, f, indent=4)
+        
+        print("(LOG) Updated profile data successfully")

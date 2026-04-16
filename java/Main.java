@@ -16,6 +16,7 @@ public class Main {
         }
 
         GameManager manager = new GameManager();
+        manager.testLanterna();
         manager.start();
     }
 }
